@@ -48,8 +48,8 @@
      <Compile Include="Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Isometric Block\readme.txt" />
- <Reference Include="Assembly-UnityScript">
- <HintPath>C:/Users/Victor/Documents/MDJ4/New Unity Project/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ <Reference Include="Assembly-UnityScript-firstpass">
+ <HintPath>C:/Users/Victor/Documents/MDJ4/New Unity Project/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll</HintPath>
